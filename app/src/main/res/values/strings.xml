@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyMobiusDemo</string>
+    <string name="title_task_list">My tasks</string>
+    <string name="content_desc_create_new_task">Create New Task.</string>
+    <string name="content_desc_delete">Delete Task Icon</string>
+    <string name="title_task_info">My Task Info</string>
+    <string name="title_task_create">Create Task</string>
+    <string name="delete_error_msg">Unable to delete task</string>
+    <string name="delete_success_msg">Task Deleted successfully</string>
+    <string name="enter_title">Please enter title</string>
+    <string name="enter_description">Please enter description</string>
+    <string name="update_error_msg">Error updating task.</string>
+    <string name="update_success_msg">Task update successfully.</string>
+    <string name="hint_title">Title</string>
+    <string name="button_save">Save</string>
+    <string name="hint_description">Description</string>
+    <string name="create_error_msg">Fail to create task.</string>
+    <string name="create_success_msg">Task created successfully</string>
+    <string name="button_create">Create</string>
+    <string name="load_error_msg">Error loading task</string>
+    <string name="title_create_task">Create Task</string>
+</resources>
