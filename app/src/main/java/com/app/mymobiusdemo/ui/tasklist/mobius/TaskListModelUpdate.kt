@@ -4,7 +4,7 @@ import com.spotify.mobius.Next
 import com.spotify.mobius.Update
 import com.spotify.mobius.functions.Consumer
 
-class TaskListModelUpdate(val viewEffectConsumer: Consumer<TaskListViewEffect>) :
+class TaskListModelUpdate(private val viewEffectConsumer: Consumer<TaskListViewEffect>) :
     Update<TaskListModel, TaskListEvent, TaskListEffect> {
     override fun update(
         model: TaskListModel,
